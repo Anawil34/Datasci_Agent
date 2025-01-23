@@ -16,9 +16,9 @@ Q: Is there a correlation between the number of installments and the interest ra
 ![alt text](image-1.png)
 
 ### Table QA
-Q: What is the maximum value of maximum_amounts across the tax registries table ?\n
-A: The maximum value of maximum_amounts across the tex registries table is $344,250.
+Q: What is the maximum value of maximum_amounts across the tax registries table ?
 ![alt text](image-4.png)
+A: The maximum value of maximum_amounts across the tex registries table is $344,250.
 
 ### RAG
 Q: From all the table name base, if I were to create a ml model which columns should be relevant.
