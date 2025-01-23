@@ -11,9 +11,15 @@ I tried to use both Langchain and Llama Index to create an automation that might
 
 
 ## Sample Output
+### Visualization
 Q: Is there a correlation between the number of installments and the interest rate for credit cases ?
 ![alt text](image-1.png)
 
+### Table QA
 Q: What is the maximum value of maximum amounts across the tax registries table ?
+![alt text](image-4.png)
 
-![alt text](image-3.png)
+### RAG
+Q: From all the table name base, if I were to create a ml model which columns should be relevant.
+
+![alt text](image-5.png)
