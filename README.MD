@@ -1,6 +1,6 @@
 # ABOUT
 This one of my work in the Hackathon of SuperAI SS4. The Goal is to tried to come ups with the ideas that utilize LLM to help automate Data Scientist workflow.
-In this Project, I tried to utilize Langchain and Llama Index to create an automation that might help automate some of Data Scientist do their workflow.
+In this Project, I tried to utilize Langchain and Llama Index to create an automation that might help assist Data Scietist in their EDA and give idea on feature engineering.
 
 ## My ideas
 - RAG for feature engineering
