@@ -1,0 +1,54 @@
+[
+    {
+        "table_name": "applprev",
+        "table_summary": "The table contains information about case_id, max_actualdpd_943P, max_annuity_853A, max_credacc_actualbalance_314A, max_credacc_credlmt_575A, and other related data for different cases."
+    },
+    {
+        "table_name": "base",
+        "table_summary": "The table contains case_id, date_decision, MONTH, WEEK_NUM, and target columns with corresponding data."
+    },
+    {
+        "table_name": "credit_bureau_a",
+        "table_summary": "The table contains dept 1 information about credit bureau of each case_id from datasource 'a'. Contains columns of case IDs and various credit-related attributes such as credit limits, debt outstanding, overdue amounts, installment amounts, dates, financial institutions, and more."
+    },
+    {
+        "table_name": "credit_bureau_b",
+        "table_summary": "The table contains dept 1 information about credit bureau of each case_id from datasource 'b'. Contains columns of case IDs and various credit-related attributes such as maximum amounts, credit limits, debt values, installment amounts, contract dates, and more."
+    },
+    {
+        "table_name": "credit_bureau_b_2",
+        "table_summary": "Table has dept 2 information about credit bureau of each case_id from datasource 'b'. Containing case_id, max_pmts_dpdvalue_108P, max_pmts_pmtsoverdue_635A, max_pmts_date_1107D, max_num_group1, and max_num_group2"
+    },
+    {
+        "table_name": "debitcard",
+        "table_summary": "Table containing case_id, max_last180dayaveragebalance_704A, max_last180dayturnover_1134A, max_last30dayturnover_651A, max_openingdate_857D, max_num_group1"
+    },
+    {
+        "table_name": "deposit",
+        "table_summary": "This table contains information about case IDs, maximum amounts, contract end dates, opening dates, and number of groups for deposits."
+    },
+    {
+        "table_name": "other",
+        "table_summary": "Table with case_id, max_amtdebitincoming/outgoing, max_amtdepositbalance/incoming/outgoing, and max_num_group1"
+    },
+    {
+        "table_name": "person",
+        "table_summary": "The table contains information about different individuals, including their case ID, occupation, birthdate, employment details, address, education, marital status, gender, and other personal details."
+    },
+    {
+        "table_name": "static_cb",
+        "table_summary": "The table contains various columns such as case_id, assignment dates, birthdate, contracts sum, education, marital status, number of queries, payment averages, response dates, risk assessment, and quarters. It also includes data for each column for different cases."
+    },
+    {
+        "table_name": "tax_registry_a",
+        "table_summary": "This table contains information about tax registry from datasource 'a'. Containing case IDs, maximum amounts, record dates, names, and number groups."
+    },
+    {
+        "table_name": "tax_registry_b",
+        "table_summary": "This table contains information about tax registry from datasource 'b'. Containing case IDs, maximum amounts, maximum deduction dates, maximum names, and maximum number groups."
+    },
+    {
+        "table_name": "tax_registry_c",
+        "table_summary": "This table contains information about tax registry from datasource 'c'. Containing case IDs, maximum payment amounts, processing dates, employer names, and group numbers."
+    }
+]
