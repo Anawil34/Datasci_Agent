@@ -7,6 +7,8 @@ In this Project, I tried to utilize Langchain and Llama Index to create an autom
 - RAG + Table QA for doing the basic sql queries
 - RAG + custom visualization Agent to automate visualization
 
+## Data
+https://www.kaggle.com/competitions/home-credit-credit-risk-model-stability
 
 ## Sample Output
 ### Visualization
