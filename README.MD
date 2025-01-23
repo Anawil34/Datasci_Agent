@@ -9,3 +9,11 @@ I tried to use both Langchain and Llama Index to create an automation that might
 - RAG + Table QA for doing the basic sql queries
 - RAG + custom visualization Agent to automate visualization
 
+
+## Sample Output
+Q: Is there a correlation between the number of installments and the interest rate for credit cases ?
+![alt text](image-1.png)
+
+Q: What is the maximum value of maximum amounts across the tax registries table ?
+
+![alt text](image-3.png)
